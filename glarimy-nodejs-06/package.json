@@ -1,0 +1,11 @@
+{
+  "name": "glarimy-nodejs-06",
+  "version": "1.0.0",
+  "description": "Illustrates modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Krishna Mohan Koyya",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "glarimy-nodejs-02",
+  "version": "1.0.0",
+  "description": "Introduces the usage of npm and package.json",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Krishna Mohan Koyya",
+  "license": "ISC"
+}

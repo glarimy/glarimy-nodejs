@@ -1,0 +1,11 @@
+{
+  "name": "glarimy-nodejs-03",
+  "version": "1.0.0",
+  "description": "Illustrates console and stdin",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Krishna Mohan Koyya",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "glarimy-nodejs-05",
+  "version": "1.0.0",
+  "description": "Illustrates event handling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Krishna Mohan Koyya",
+  "license": "ISC"
+}
